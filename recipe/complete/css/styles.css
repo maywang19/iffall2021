@@ -1,0 +1,111 @@
+body {
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(247, 198, 100);
+    background-size: 50%;
+    background-position: center;
+    height: auto;
+    padding-top: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 40px;
+    line-height: .5em;
+}
+
+h1 {
+    font-size: 100pt;
+    font-weight: bold;
+    padding-bottom: 10px;
+    line-height: 70pt;
+}
+
+h2 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+p {
+    line-height: 30pt;
+
+}
+
+.main {
+    width: 100%;
+    height: auto;
+}
+
+h3 {
+    font-size: 16pt;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.ingredientlist {
+    text-align: left;
+    padding-left: 100px;
+    padding-right: 100px;
+    line-height: 1 pt;
+}
+
+.prep {
+    text-align: center;
+    background-color: rgb(255, 171, 92);
+    background-size: 50%;
+    background-position: center;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.cooking {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.marinate {
+    width: auto;
+    height: 150px;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+
+.cook {
+    width: auto;
+    height: 200px;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.bread {
+    width: auto;
+    height: 200px;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.complete {
+    width: auto;
+    height: 200px;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+
+footer {
+    background-color: rgb(255, 171, 92);
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.sources {
+    font-size: 10pt;
+}
